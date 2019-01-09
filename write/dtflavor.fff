@@ -1,0 +1,34 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+  \centering
+  \includegraphics[width=1.0\textwidth]{../figs/dt_accuracy_bar.pdf}
+  \caption{Mean dual-task accuracy across the entire experiment plotted
+    separately for each condition. Error bars are SEM.}
+  \label{dt_accuracy}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+  \centering
+  \includegraphics[width=1.0\textwidth]{../figs/learning_curves.pdf}
+  \caption{Mean classification accuracy across participants computed sepatately
+    for each condition and block of the experiment. Error bars are SEM.}
+  \label{learning_curves}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+  \centering
+  \includegraphics[width=1.0\textwidth]{../figs/bs_cost.pdf}
+  \caption{Mean Accuracy difference between the last block of training and the
+    first block of the button-switch (block 10 - block 11) plotted separately for
+    each condition. Error bars are SEM.}
+  \label{bs_cost}
+\end{figure*}
+\efloatseparator
+ 

@@ -1,0 +1,3 @@
+1. When experiment was originally run, the block numbers were shown as whole number, instead of with the decimal (i.e., Block 1 instead of Block 1.0)
+2. To escape the experiment, time out for responding to the line (don't respond for 5 sec) and once you see the prompt to speed up your response, start pressing 1. It causes an error which allows you to escape the experiment (but be wary of adding "1" to the code)
+3. ['sounddevice', 'pyo', 'pygame', ] was original setting for audio library within Application Preferences. Changed to just ['pyo']
